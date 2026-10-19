@@ -4,6 +4,10 @@
 
 ### Checkpoint 1: Comunicação I2C entre Raspberry Pi e Arduino
 
+**Autores:**
+- Felipe Assis Bernardes Falvo — Nº USP: 15004433
+- Kayke Malaquias Gregorio — Nº USP: 15651561
+
 ---
 
 ## Descrição do Projeto
